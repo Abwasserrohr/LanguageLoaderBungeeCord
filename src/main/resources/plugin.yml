@@ -1,0 +1,8 @@
+name: LanguageLoader
+main: me.skyroad.abwasserrohr.LanguageLoader
+version: 0.0.1
+api-version: 1.17
+depend: []
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.5.10
+  - org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.2

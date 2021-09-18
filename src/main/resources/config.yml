@@ -1,0 +1,10 @@
+
+# Define which packs should be loaded, "all" means loading all packs.
+loadpacks:
+  - "all"
+
+# Only load language files from local drive.
+localload: false
+
+# Fallback language code:
+fallbackCode: en
